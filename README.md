@@ -1,3 +1,4 @@
+![MasterHead](https://miro.medium.com/proxy/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 <h1 align="center">Hi 👋, I'm Shilp Patel</h1>
 <h3 align="center">An aspiring techie with monumental interest in development technologies</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
